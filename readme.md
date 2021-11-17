@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/1csq5nif2hnnegyx?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-GrapeCity)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.GrapeCity.svg)](https://www.nuget.org/packages/Verify.GrapeCity/)
 
-Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of documents via [GrapeCity Documents](https://www.grapecity.com/#dx).
+Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of documents via [GrapeCity Documents API](https://www.grapecity.com/#dx).
 
 Converts documents (pdf, docx, and xslx) to png for verification.
 
@@ -212,13 +212,11 @@ public Task VerifyWordStream()
 <img src="/src/Tests/Samples.VerifyWord.01.verified.png" width="200px">
 
 
-
 ## File Samples
 
 http://file-examples.com/
 
 
-
 ## Icon
 
-[Swirl](https://thenounproject.com/term/swirl/1568686/) designed by [creativepriyanka](https://thenounproject.com/creativepriyanka) from [The Noun Project](https://thenounproject.com/).
+[Grapes](https://thenounproject.com/term/grapes/2933990/) designed by [Ale Em](https://thenounproject.com/AleEm) from [The Noun Project](https://thenounproject.com/).
