@@ -1,6 +1,6 @@
 # <img src="/src/icon.png" height="30px"> Verify.GrapeCity
 
-[![Build status](https://ci.appveyor.com/api/projects/status/7k8hh0guut2ioak2?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-GrapeCity)
+[![Build status](https://ci.appveyor.com/api/projects/status/1csq5nif2hnnegyx?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-GrapeCity)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.GrapeCity.svg)](https://www.nuget.org/packages/Verify.GrapeCity/)
 
 Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of documents via [GrapeCity Documents](https://www.grapecity.com/#dx).
