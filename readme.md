@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/1csq5nif2hnnegyx?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-GrapeCity)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.GrapeCity.svg)](https://www.nuget.org/packages/Verify.GrapeCity/)
 
-Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of documents via [GrapeCity Documents API](https://www.grapecity.com/#dx).
+Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of documents via [GrapeCity Documents API](https://www.grapecity.com/documents-api).
 
 Converts documents (pdf, docx, and xslx) to png for verification.
 
