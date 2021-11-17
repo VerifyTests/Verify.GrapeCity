@@ -1,0 +1,11 @@
+﻿{
+  Pages: 1,
+  ApplicationName: Microsoft Office Word,
+  AplicationVersion: 16.0,
+  Company: ,
+  CreatedTime: DateTime_1,
+  Language: en-US,
+  Security: None,
+  RevisionNumber: 3,
+  DefaultFont: Liberation Serif
+}

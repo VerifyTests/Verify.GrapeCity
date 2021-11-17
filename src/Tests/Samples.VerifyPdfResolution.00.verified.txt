@@ -1,0 +1,10 @@
+﻿{
+  Title: ,
+  Author: ,
+  CreationDate: DateTimeOffset_1,
+  ModifyDate: DateTimeOffset_2,
+  Subject: ,
+  Keywords: ,
+  Creator: RAD PDF,
+  Producer: RAD PDF 3.9.0.0 - http://www.radpdf.com
+}

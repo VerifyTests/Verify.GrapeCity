@@ -1,0 +1,6 @@
+﻿{
+  BuiltInDocumentProperties: {},
+  CustomDocumentProperties: {},
+  DefaultTableStyle: TableStyleMedium2,
+  EnableCalculation: true
+}

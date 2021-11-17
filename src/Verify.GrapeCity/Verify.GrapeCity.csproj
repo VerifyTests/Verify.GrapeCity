@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net48;net5</TargetFrameworks>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Verify" Version="14.3.0" />
+    <PackageReference Include="GrapeCity.Documents.Pdf" Version="4.2.0.726" />
+    <PackageReference Include="GrapeCity.Documents.Excel" Version="4.2.5" />
+    <PackageReference Include="GrapeCity.Documents.Word" Version="4.2.0.726" />
+    <PackageReference Include="GrapeCity.Documents.Word.Layout" Version="4.2.0.726" />
+    <PackageReference Include="ProjectDefaults" Version="1.0.61" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" Condition="$(Configuration) == 'Release'" />
+  </ItemGroup>
+</Project>
