@@ -5,7 +5,7 @@
   <ItemGroup>
     <PackageReference Include="Verify" Version="14.3.0" />
     <PackageReference Include="GrapeCity.Documents.Pdf" Version="4.2.0.726" />
-    <PackageReference Include="GrapeCity.Documents.Excel" Version="4.2.5" />
+    <PackageReference Include="GrapeCity.Documents.Excel" Version="5.0.2" />
     <PackageReference Include="GrapeCity.Documents.Word" Version="4.2.0.726" />
     <PackageReference Include="GrapeCity.Documents.Word.Layout" Version="4.2.0.726" />
     <PackageReference Include="ProjectDefaults" Version="1.0.61" PrivateAssets="All" />
