@@ -1,18 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text
-
-# Denote all files that are truly binary and should not be modified.
+* text=auto eol=crlf
+.editorconfig -text
+*.sln.DotSettings -text
 *.snk binary
-*.pdf binary
-*.docx binary
+*.json -text
 *.png binary
-*.xlsx binary
-*.mpp binary
-*.msg binary
-*.one binary
+*.pdf binary
+*.xslx binary
 *.pptx binary
-*.ppt binary
-*.vsdx binary
-*.md binary
-
-*.approved.* binary
