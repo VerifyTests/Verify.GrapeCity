@@ -8,7 +8,7 @@
     <PackageReference Include="GrapeCity.Documents.Excel" Version="5.0.2" />
     <PackageReference Include="GrapeCity.Documents.Word" Version="4.2.0.726" />
     <PackageReference Include="GrapeCity.Documents.Word.Layout" Version="4.2.0.726" />
-    <PackageReference Include="ProjectDefaults" Version="1.0.72" PrivateAssets="all" />
+    <PackageReference Include="ProjectDefaults" Version="1.0.78" PrivateAssets="all" />
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" Condition="$(Configuration) == 'Release'" />
   </ItemGroup>
 </Project>
